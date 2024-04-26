@@ -17,11 +17,11 @@ This is my first challenge in frontendmentor. Though i had done a few ones here 
 
 ### Screenshot1
 
-![Desktop Screenshot](./Screenshot1.png)
+![Desktop Screenshot](./screenshot1.png)
 
 ### Screenshot 2
 
-![Mobile Screenshot 2](./Screenshot2.png)
+![Mobile Screenshot 2](./screenshot2.png)
 
 ### Links
 
