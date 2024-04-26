@@ -15,11 +15,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 This is my first challenge in frontendmentor. Though i had done a few ones here and there this was one to shake my rusty head a little.
 ## Screenshots
 
-### Screenshot1
+###Desktop Screenshot
 
 ![Desktop Screenshot](./screenshot1.png)
 
-### Screenshot 2
+### Mobile Screenshot
 
 ![Mobile Screenshot 2](./screenshot2.png)
 
