@@ -25,7 +25,7 @@ This is my first challenge in frontendmentor. Though i had done a few ones here 
 
 ### Links
 
-- Solution URL: [https://Mark-Line.github.io/Frontend-Mentor-Solution-qr-code-component-using-HTML-CSS](https://Mark-Line.github.io/Frontend-Mentor-Solution-qr-code-component-using-HTML-CSS/)
+- Solution URL: [https://mark-line.github.io/Frontend-Mentor-Solution-qr-code-component-using-HTML-CSS-/]( https://mark-line.github.io/Frontend-Mentor-Solution-qr-code-component-using-HTML-CSS-/)
 
 ## My process
 I mostly Used Flex box to center the diffrent parts like the qrCode in the middle the link below it.
