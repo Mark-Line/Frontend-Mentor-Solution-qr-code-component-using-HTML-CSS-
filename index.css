@@ -35,10 +35,8 @@ body{
 img{
     margin: 12px;
     display: block;
-    width: 280px;
-    height: 280px;
-    border-top-right-radius: 10px;
-    border-top-left-radius: 10px;
+    width: 276px;
+    height: 290px;
     border-radius: 10px;
 }
 
